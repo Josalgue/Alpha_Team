@@ -1,6 +1,6 @@
 ,year,title
 0,1999,10 Things I Hate About You
-1,2018–,101 Dalmatian Street
+1,2018,101 Dalmatian Street
 2,1996,101 Dalmatians
 3,2002,101 Dalmatians 2: Patch's London Adventure
 4,2000,102 Dalmatians
@@ -24,12 +24,12 @@
 22,1949,All in a Nutshell
 23,2000,Alley Cats Strike
 24,1962,Almost Angels
-25,1989–,America's Funniest Home Videos
+25,1989,America's Funniest Home Videos
 26,2004,America's Heart & Soul
-27,2015–,America's National Parks
+27,2015,America's National Parks
 28,1981,Amy
 29,2000,An Extremely Goofy Movie
-30,2017–2019,Andi Mack
+30,2017,Andi Mack
 31,1999,Annie
 32,2019,Apollo: Missions to the Moon
 33,,
@@ -38,14 +38,14 @@
 36,2003,Atlantis: Milo's Return
 37,2001,Atlantis: The Lost Empire
 38,2018,Auntie Edna
-39,2011–2016,Austin & Ally
+39,2011,Austin & Ally
 40,2009,Avatar
 42,1932,Babes in the Woods
 43,1961,Babes in Toyland
 44,1942,Bambi
 45,2006,Bambi and the Great Prince of the Forest
 46,2018,Bao
-47,2020–,Be Our Chef
+47,2020,Be Our Chef
 48,1939,Beach Picnic
 49,1955,Bearly Asleep
 50,1991,Beauty and the Beast
@@ -57,21 +57,21 @@
 56,1955,Beezy Bear
 57,2016,Before the Flood
 58,1987,Benji the Hunted
-59,2015–2016,Best Friends Whenever
+59,2015,Best Friends Whenever
 60,1988,Big Business
-61,2018–,Big City Greens
+61,2018,Big City Greens
 63,2014,Big Hero 6
-65,2017–,Billy Dilley's Super-Duper Subterranean Summer
+65,2017,Billy Dilley's Super-Duper Subterranean Summer
 67,2009,Bizarre Dinosaurs
 68,1968,Blackbeard's Ghost
 69,1994,Blank Check
-70,2018–,Bluey
+70,2018,Bluey
 71,1938,Boat Builders
 72,2008,Bolt
-74,1993–1994,Bonkers
+74,1993,Bonkers
 76,2003,Boundin'
-77,1993–2000,Boy Meets World
-78,2011–,Brain Games
+77,1993,Boy Meets World
+78,2011,Brain Games
 79,2012,Brave
 80,1997,The Brave Little Toaster to the Rescue
 81,2017,Breaking2
@@ -79,7 +79,7 @@
 84,2003,Brother Bear
 85,2006,Brother Bear 2
 86,2005,Buffalo Dreams
-87,2018–,Bug Juice: My Adventures at Camp
+87,2018,Bug Juice: My Adventures at Camp
 89,2008,Burn-E
 90,2002,Cadet Kelly
 91,1994,Camp Nowhere
@@ -104,7 +104,7 @@
 118,1989,Cheetah
 119,1941,Chef Donald
 120,2005,Chicken Little
-121,1988–1990,Chip 'n' Dale Rescue Rangers
+121,1988,Chip 'n' Dale Rescue Rangers
 122,1947,Chip an' Dale
 123,1950,Cinderella
 124,2001,Cinderella 2: Dreams Come True
@@ -116,13 +116,13 @@
 131,2004,Confessions of a Teenage Drama Queen
 132,2016,Continent 7: Antarctica
 133,1993,Cool Runnings
-134,2018–,Coop and Cami Ask the World
+134,2018,Coop and Cami Ask the World
 136,1951,Corn Chips
 137,2006,Cow Belles
-138,2012–2014,Crash & Bernstein
+138,2012,Crash & Bernstein
 139,2009,Dadnapped
 140,1959,Darby O'Gill and the Little People
-141,1991–1992,Darkwing Duck
+141,1991,Darkwing Duck
 142,1956,Davy Crockett and the River Pirates
 143,1955,Davy Crockett: King of the Wild Frontier
 144,2010,Day & Night
@@ -132,57 +132,57 @@
 148,2019,Descendants 3
 149,2003,Destino
 150,2017,Diana: In Her Own Words
-151,2020–,Diary of a Future President
+151,2020,Diary of a Future President
 152,2010,Diary of a Wimpy Kid
 153,2000,Dinosaur
 154,2016,Adventures in Babysitting
-155,2019–,Amphibia
+155,2019,Amphibia
 156,2010,Avalon High
 157,2015,Bad Hair Day
-158,2017–,Big Hero 6: The Series
-159,2016–2019,Bizaardvark
+158,2017,Big Hero 6: The Series
+159,2016,Bizaardvark
 160,2010,Den Brother
 161,2015,Descendants
-162,2015–,Descendants: Wicked World
-164,2014–,The Evermoor Chronicles
-165,2019–,Family Sundays
-166,2018–,Fancy Nancy
+162,2015,Descendants: Wicked World
+164,2014,The Evermoor Chronicles
+165,2019,Family Sundays
+166,2018,Fancy Nancy
 167,2019,Fast Layne
 169,2012,Girl Vs. Monster
-170,2012–2016,Gravity Falls
-172,2014–2015,I Didn't Do It
-173,2020–,Insider
-174,2011–2016,Jake and the Never Land Pirates
-175,2009–2010,Jonas
-176,2018–,Disney Junior Music Nursery Rhymes
-177,2015–2018,K.C. Undercover
-179,2016–2019,Lab Rats: Elite Force
-180,2018–,Legend of the Three Caballeros
-182,2006–2016,Mickey Mouse Clubhouse
-183,2016–,Milo Murphy's Law
-184,2011–2016,Minnie's Bow-Toons
+170,2012,Gravity Falls
+172,2014,I Didn't Do It
+173,2020,Insider
+174,2011,Jake and the Never Land Pirates
+175,2009,Jonas
+176,2018,Disney Junior Music Nursery Rhymes
+177,2015,K.C. Undercover
+179,2016,Lab Rats: Elite Force
+180,2018,Legend of the Three Caballeros
+182,2006,Mickey Mouse Clubhouse
+183,2016,Milo Murphy's Law
+184,2011,Minnie's Bow-Toons
 185,2014,Phineas and Ferb: Star Wars
-188,2012–2015,Randy Cunningham: 9th Grade Ninja
-189,2017–,Raven's Home
-190,2015–2019,Star vs. the Forces of Evil
-191,2016–2018,Stuck in the Middle
-192,2019–,Sydney to the Max
-193,2010–,Take Two with Phineas and Ferb
-195,2016–,The Lion Guard
+188,2012,Randy Cunningham: 9th Grade Ninja
+189,2017,Raven's Home
+190,2015,Star vs. the Forces of Evil
+191,2016,Stuck in the Middle
+192,2019,Sydney to the Max
+193,2010,Take Two with Phineas and Ferb
+195,2016,The Lion Guard
 196,2018,Under the Sea: A Descendants Story
-197,2017–,Vampirina
-199,1985–1991,Adventures of the Gummi Bears
-200,1996–1999,Disney's Doug
-201,1987–1990,DuckTales
+197,2017,Vampirina
+199,1985,Adventures of the Gummi Bears
+200,1996,Disney's Doug
+201,1987,DuckTales
 203,2017,Holiday Magic
-204,1998–1999,Hercules
-205,2002–2007,Kim Possible
-206,2005–2009,Little Einsteins
-207,1996–1997,Mighty Ducks
-208,1997–2001,Recess
-209,2006–2008,The Emperor's New School
+204,1998,Hercules
+205,2002,Kim Possible
+206,2005,Little Einsteins
+207,1996,Mighty Ducks
+208,1997,Recess
+209,2006,The Emperor's New School
 210,2000,The Kid
-211,1992–1994,The Little Mermaid
+211,1992,The Little Mermaid
 212,1966,Disneyland Around the Seasons
 213,2011,African Cats
 214,2014,Bears
@@ -193,11 +193,11 @@
 219,2019,Penguins
 220,2011,Disneynature: Wings of Life
 221,2020,Diving with Dolphins
-222,2012–,Doc McStuffins
+222,2012,Doc McStuffins
 223,1998,Doctor Dolittle
 224,2001,Dr. Dolittle 2
-225,2004–2016,Dog Whisperer with Cesar Millan
-226,2019–,Dog: Impossible
+225,2004,Dog Whisperer with Cesar Millan
+226,2019,Dog: Impossible
 227,2020,Dolphin Reef
 228,1953,Don's Fountain of Youth
 229,1999,Don't Look Under the Bed
@@ -207,17 +207,17 @@
 233,1946,Double Dribble
 234,2002,Double Teamed
 235,1999,Doug's 1st Movie
-236,2014–,"Dr. Oakley, Yukon Vet"
-237,2019–,"Dr. T, Lone Star Vet"
+236,2014,"Dr. Oakley, Yukon Vet"
+237,2019,"Dr. T, Lone Star Vet"
 238,1954,Dragon Around
 239,2017,Drain Alcatraz
 240,2014,Drain the Bermuda Triangle
 241,2011,Drain the Great Lakes
 242,2016,Drain the Ocean: WWII
-243,2018–,Drain the Oceans
+243,2018,Drain the Oceans
 244,2017,Drain the Sunken Pirate City
 245,2015,Drain the Titanic
-246,2017–,DuckTales
+246,2017,DuckTales
 247,1990,DuckTales the Movie: Treasure of the Lost Lamp
 248,2009,Dug's Special Mission
 249,2019,Dumbo
@@ -225,26 +225,26 @@
 252,2009,Easter Island Underworld
 253,2003,Eddie's Million Dollar Cook-Off
 254,2006,Eight Below
-255,2016–,Elena of Avalor
+255,2016,Elena of Avalor
 257,2020,Elephant
 258,1936,Elmer Elephant
 259,1964,Emil and the Detectives
 260,2004,Empire of Dreams: The Story of the 'Star Wars' Trilogy
-261,2019–,Encore!
+261,2019,Encore!
 262,1975,Escape to Witch Mountain
-263,2000–2003,Even Stevens
+263,2000,Even Stevens
 264,2019,Expedition Amelia
 265,2016,Expedition Mars
-266,2017–,Disney's Fairy Tale Weddings
+266,2017,Disney's Fairy Tale Weddings
 267,1940,Fantasia
 268,1999,Fantasia 2000
-269,1994–1996,Fantastic Four: The Animated Series
-270,2006–2010,Fantastic Four: World's Greatest Heroes
+269,1994,Fantastic Four: The Animated Series
+270,2006,Fantastic Four: World's Greatest Heroes
 271,1938,Ferdinand the Bull
 272,2016,Finding Dory
 273,2003,Finding Nemo
 275,1996,First Kid
-276,2010–2014,Fish Hooks
+276,2010,Fish Hooks
 277,1986,Flight of the Navigator
 278,2019,Float
 279,1932,Flowers and Trees
@@ -266,38 +266,38 @@
 304,1947,Fun and Fancy Free
 305,1986,Fuzzbucket
 306,2009,G-Force
-307,1994–1996,Gargoyles
+307,1994,Gargoyles
 308,2011,Geek Charming
 309,1999,Genius
 311,1997,George of the Jungle
 312,2003,George of the Jungle 2
 313,1997,Geri's Game
 314,2002,Get a Clue
-316,2014–2017,Girl Meets World
+316,2014,Girl Meets World
 317,2006,Glory Road
 318,2005,Go Figure
 319,2004,Going to the Mat
-320,2010–2014,Good Luck Charlie
+320,2010,Good Luck Charlie
 321,2011,"Good Luck Charlie, It's Christmas!"
-322,1992–1993,Goof Troop
-323,2019–,Gordon Ramsay: Uncharted
+322,1992,Goof Troop
+323,2019,Gordon Ramsay: Uncharted
 324,2002,Gotta Kick It Up!
 326,1934,The Grasshopper and the Ants
-327,2010–,Great Migrations
+327,2010,Great Migrations
 328,1961,Greyfriars Bobby: The True Story of a Dog
 329,1976,Gus
 330,1971,Hacksaw
 331,1998,Halloweentown
 332,2004,Halloweentown High
 333,2001,Halloweentown II: Kalabar's Revenge
-334,2006–2013,Handy Manny
-335,2006–2011,Hannah Montana
+334,2006,Handy Manny
+335,2006,Hannah Montana
 336,2008,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert
 337,2009,Hannah Montana: The Movie
 339,2009,Hatching Pete
 340,1937,Hawaiian Holiday
 341,1995,Heavyweights
-342,2013–,Henry Hugglemonster
+342,2013,Henry Hugglemonster
 343,1980,Herbie Goes Bananas
 344,1977,Herbie Goes to Monte Carlo
 345,1974,Herbie Rides Again
@@ -306,7 +306,7 @@
 348,2006,High School Musical
 349,2007,High School Musical 2
 350,2008,High School Musical 3
-351,2019–,High School Musical: The Musical - The Series
+351,2019,High School Musical: The Musical - The Series
 353,2019,High School Musical: The Musical: The Series: The Special
 354,1993,Hocus Pocus
 355,2003,Holes
@@ -318,7 +318,7 @@
 361,1989,"Honey, I Shrunk the Kids"
 362,1997,"Honey, We Shrunk Ourselves!"
 363,1999,Horse Sense
-364,2019–,Hostile Planet
+364,2019,Hostile Planet
 365,2001,Hounded
 366,2016,How Dogs Got Their Shapes
 367,2014,How to Build a Better Boy
@@ -326,12 +326,12 @@
 369,1942,How to Play Baseball
 370,1944,How to Play Football
 371,1942,How to Swim
-372,2013–2015,Hulk and the Agents of S.M.A.S.H.
+372,2013,Hulk and the Agents of S.M.A.S.H.
 373,1998,I'll Be Home for Christmas
 374,2002,Ice Age
 375,2016,Ice Age: The Great Egg-Scapade
 376,2005,Ice Princess
-377,2008–,Imagination Movers
+377,2008,Imagination Movers
 379,2020,In the Footsteps of Elephant
 380,2015,Incredible! The Story of Dr. Pol
 382,2015,Inside Out
@@ -341,20 +341,20 @@
 386,2018,Into the Okavango
 387,2006,Invincible
 388,2015,Invisible Sister
-389,1994–1996,Iron Man
-390,2008–2012,Iron Man: Armored Adventures
+389,1994,Iron Man
+390,2008,Iron Man: Armored Adventures
 391,1994,Iron Will
 393,1996,Jack
 394,2005,Jack-Jack Attack
 395,1996,James and the Giant Peach
 396,2017,Jane
-398,2011–2015,Jessie
+398,2011,Jessie
 399,2013,Episode #2.7
 400,2012,John Carter
 401,2007,Johnny Kapahala: Back on Board
 402,1999,Johnny Tsunami
 403,2009,Jonas Brothers: The 3D Concert Experience
-404,2008–,Nature Untamed
+404,2008,Nature Untamed
 405,1959,Journey to the Center of the Earth
 406,2007,Jump In!
 407,2001,Jumping Ship
@@ -362,7 +362,7 @@
 409,1960,Jungle Cat
 410,1972,Justin Morgan Had a Horse
 411,1996,Kazaam
-412,2011–2015,Kickin' It
+412,2011,Kickin' It
 413,2019,Kim Possible
 414,2005,Kim Possible: So the Drama
 416,2009,Kingdom of the Blue Whale
@@ -370,39 +370,39 @@
 418,2019,Kitbull
 420,2005,Kronk's New Groove
 421,2011,La Luna
-422,2012–2016,Lab Rats
+422,2012,Lab Rats
 423,2019,Lady and the Tramp
 424,1955,Lady and the Tramp
 425,2001,Lady and the Tramp 2: Scamp's Adventure
 426,1952,Lambert the Sheepish Lion
 427,2020,Lamp Life
-429,2016–,Lego Frozen Northern Lights
-430,2018–,Lego Star Wars: All-Stars
+429,2016,Lego Frozen Northern Lights
+430,2018,Lego Star Wars: All-Stars
 432,2015,Lego Star Wars: Droid Tales
 433,2016,LEGO Star Wars: The Resistance Rises
-434,2016–,Lego Star Wars: The Freemaker Adventures
+434,2016,Lego Star Wars: The Freemaker Adventures
 436,2014,The New Yoda Chronicles: Clash of the Skywalkers
 437,2014,The New Yoda Chronicles: Raid on Coruscant
 439,2014,The New Yoda Chronicles: Escape from the Jedi Temple
-440,2013–,Lego Star Wars: The Yoda Chronicles
+440,2013,Lego Star Wars: The Yoda Chronicles
 441,2011,Lemonade Mouth
 442,1941,Lend a Paw
 443,2006,Leroy & Stitch
 444,2012,Let It Shine
 445,1952,Let's Stick Together
-446,2013–,Life Below Zero
+446,2013,Life Below Zero
 447,2005,Life Is Ruff
 448,1993,Life with Mikey
 449,2018,Life-Size 2
 450,2006,Lifted
 451,2002,Lilo & Stitch
-452,2003–2006,Lilo & Stitch: The Series
+452,2003,Lilo & Stitch: The Series
 453,2005,Lilo & Stitch 2: Stitch Has a Glitch
-454,2001–2004,Lizzie McGuire
+454,2001,Lizzie McGuire
 455,1937,Lonesome Ghosts
 456,2020,Loop
-457,2019–,Lost Cities with Albert Lin
-459,2018–,Lost Treasures of the Maya
+457,2019,Lost Cities with Albert Lin
+459,2018,Lost Treasures of the Maya
 460,2017,Lou
 462,2001,The Luck of the Irish
 464,2020,Playdate with Destiny
@@ -411,9 +411,9 @@
 469,2011,Mars Needs Moms
 470,2018,MARS: Inside SpaceX
 471,2014,Marvel 75 Years: From Pulp to Pop!
-472,1994–1998,Spider-Man: The Animated Series
-473,1996–1998,The Incredible Hulk
-474,1992–1997,X-Men: The Animated Series
+472,1994,Spider-Man: The Animated Series
+473,1996,The Incredible Hulk
+474,1992,X-Men: The Animated Series
 475,2019,Marvel Rising: Battle of the Bands
 476,2019,Marvel Rising: Chasing Ghosts
 477,2019,Marvel Rising: Heart of Iron
@@ -440,27 +440,27 @@
 499,2011,Thor
 500,2017,Thor: Ragnarok
 501,2013,Thor: The Dark World
-502,2017–,Marvel Super Hero Adventures
-503,2012–2017,Ultimate Spider-Man
-504,2015–2016,Agent Carter
+502,2017,Marvel Super Hero Adventures
+503,2012,Ultimate Spider-Man
+504,2015,Agent Carter
 505,2017,Ant-Man
-506,2013–,Avengers Assemble
-508,2017–,Marvel Future Avengers
-509,2015–,Guardians of the Galaxy
-511,2019–,Marvel's Hero Project
+506,2013,Avengers Assemble
+508,2017,Marvel Future Avengers
+509,2015,Guardians of the Galaxy
+511,2019,Marvel's Hero Project
 512,2017,Inhumans
 513,2013,Iron Man & Hulk: Heroes United
-514,2017–,Rocket & Groot
-515,2017–2019,Runaways
-516,2017–,Spider-Man
+514,2017,Rocket & Groot
+515,2017,Runaways
+516,2017,Spider-Man
 519,1964,Mary Poppins
 520,2006,Mater and the Ghostlight
 521,1998,Meet the Deedles
 522,2007,Meet the Robinsons
 523,1948,Melody Time
-525,2013–,Mickey Mouse
-526,1955–1958,The Mickey Mouse Club
-527,2017–,Mickey Mouse Mixed-Up Adventures
+525,2013,Mickey Mouse
+526,1955,The Mickey Mouse Club
+527,2017,Mickey Mouse Mixed-Up Adventures
 528,2004,"Mickey, Donald, Goofy: The Three Musketeers"
 529,1942,Mickey's Birthday Party
 530,1983,Mickey's Christmas Carol
@@ -470,7 +470,7 @@
 535,2004,Mickey's Twice Upon a Christmas
 536,1998,Mighty Joe Young
 537,2002,Mike's New Car
-538,2015–,Mission Force One
+538,2015,Mission Force One
 539,2004,Millions
 540,2008,Minutemen
 541,2004,Miracle
@@ -489,13 +489,13 @@
 554,1940,Mr. Mouse Takes a Trip
 555,1998,Mulan
 556,2004,Mulan II
-557,2018–,Muppet Babies
-559,2015–,Muppet Moments
+557,2018,Muppet Babies
+559,2015,Muppet Moments
 560,1996,Muppet Treasure Island
 561,2014,Muppets Most Wanted
 562,1969,"My Dog, the Thief: Part 1"
 563,1999,My Favorite Martian
-564,2007–2010,My Friends Tigger & Pooh
+564,2007,My Friends Tigger & Pooh
 565,2004,National Treasure
 566,2007,National Treasure: Book of Secrets
 567,1951,Nature's Half Acre
@@ -509,17 +509,17 @@
 575,1988,Oliver & Company
 576,1935,On Ice
 577,2005,Once Upon a Mattress
-578,2019–,One Day at Disney
+578,2019,One Day at Disney
 580,1961,One Hundred and One Dalmatians
 581,1985,One Magic Christmas
 582,2005,One Man Band
-583,2018–,One Strange Rock
+583,2018,One Strange Rock
 584,2020,Onward
 585,1995,Operation Dumbo Drop
-586,2017–,Origins: The Journey of Humankind
+586,2017,Origins: The Journey of Humankind
 587,1951,Out of Scale
-588,1998–2004,Out of the Box
-589,2019–,Out There with Jack Randall
+588,1998,Out of the Box
+589,2019,Out There with Jack Randall
 591,2018,Paris to Pittsburgh
 592,2009,Partly Cloudy
 593,2014,Party Central
@@ -530,11 +530,11 @@
 598,1953,Peter Pan
 599,2002,Peter Pan 2: Return to Never Land
 600,2000,Phantom of the Megaplex
-601,2004–2006,Phil of the Future
-602,2007–2015,Phineas and Ferb
+601,2004,Phil of the Future
+602,2007,Phineas and Ferb
 603,2011,Phineas and Ferb the Movie: Across the 2nd Dimension
 604,2013,Phineas and Ferb: Mission Marvel
-605,2019–,Pick of the Litter
+605,2019,Pick of the Litter
 606,2003,Piglet's Big Movie
 607,1940,Pinocchio
 608,2016,Piper
@@ -542,9 +542,9 @@
 610,2006,Pirates of the Caribbean: Dead Man's Chest
 611,2011,Pirates of the Caribbean: On Stranger Tides
 612,2003,Pirates of the Caribbean: The Curse of the Black Pearl
-613,2019–,Pixar in Real Life
+613,2019,Pixar in Real Life
 614,2004,Pixel Perfect
-615,2015–,PJ Masks
+615,2015,PJ Masks
 618,1952,Pluto's Christmas Tree
 619,1952,Pluto's Party
 620,1948,Pluto's Purchase
@@ -554,13 +554,13 @@
 626,1997,Pooh's Grand Adventure: The Search for Christopher Robin
 627,2005,Pooh's Heffalump Movie
 629,2008,Presto
-630,2016–,Primal Survivor
+630,2016,Primal Survivor
 631,2009,Princess Protection Program
 632,2011,Prom
 633,1953,Prowlers of the Everglades
-634,2017–,Puppy Dog Pals
+634,2017,Puppy Dog Pals
 635,2018,Purl
-636,1996–1997,Quack Pack
+636,1996,Quack Pack
 637,2016,Queen of Katwe
 638,2000,Quints
 639,2007,Ratatouille
@@ -584,7 +584,7 @@
 659,1993,Rookie of the Year
 660,2006,Roving Mars
 661,1998,Ruby Bridges
-662,2014–,Running Wild with Bear Grylls
+662,2014,Running Wild with Bear Grylls
 663,2004,Sacred Planet
 664,1942,Saludos Amigos
 665,1962,"Sammy, the Way-Out Seal: Part 1"
@@ -600,44 +600,44 @@
 675,2017,The Secret of Christ's Tomb
 676,1956,Secrets of Life
 677,2010,Secrets of the King Cobra
-678,2018–,Secrets of the Zoo
-680,2010–2013,Shake It Up
+678,2018,Secrets of the Zoo
+680,2010,Shake It Up
 681,2013,Sharks of Lost Island
 682,2011,Sharpay's Fabulous Adventure
-683,2014–,Sheriff Callie's Wild West
+683,2014,Sheriff Callie's Wild West
 684,1990,Shipwrecked
-685,2020–,Shop Class
+685,2020,Shop Class
 686,1998,Silver Surfer
 687,2007,The Simpsons Movie
 688,1992,Sister Act
 689,1993,Sister Act 2: Back in the Habit
 690,2009,Skyrunners
 691,1959,Sleeping Beauty
-692,1997–1999,Smart Guy
+692,1997,Smart Guy
 693,1999,Smart House
 694,2019,Smash and Grab
 695,2002,Snow Dogs
 696,1937,Snow White and the Seven Dwarfs
 697,1972,Snowball Express
 698,2007,Snowglobe
-699,1999–2001,So Weird
+699,1999,So Weird
 700,1939,Society Dog Show
-701,2009–2011,Sonny with a Chance
-702,2016–,Soy Luna
-703,1981–1982,Spider-Man
-704,1981–1986,Spider-Man and His Amazing Friends
-705,1999–2005,Spider-Man Unlimited
-706,1979–1980,Spider-Woman
+701,2009,Sonny with a Chance
+702,2016,Soy Luna
+703,1981,Spider-Man
+704,1981,Spider-Man and His Amazing Friends
+705,1999,Spider-Man Unlimited
+706,1979,Spider-Woman
 707,1984,Splash
-708,2017–,Star Wars: Forces of Destiny
-709,2014–2018,Star Wars Rebels
-711,2018–,Star Wars Resistance
+708,2017,Star Wars: Forces of Destiny
+709,2014,Star Wars Rebels
+711,2018,Star Wars Resistance
 712,1977,Star Wars: Episode IV - A New Hope
 713,2002,Star Wars: Episode II - Attack of the Clones
 714,2017,Star Wars Blips
 715,1983,Star Wars: Episode VI - Return of the Jedi
 716,2005,Star Wars: Episode III - Revenge of the Sith
-717,2008–2020,Star Wars: The Clone Wars
+717,2008,Star Wars: The Clone Wars
 718,2008,Star Wars: The Clone Wars
 719,1980,Star Wars: Episode V - The Empire Strikes Back
 720,2015,Star Wars: Episode VII - The Force Awakens
@@ -653,35 +653,35 @@
 731,1980,The Sultan and the Rock Star
 732,2013,Super Buddies
 733,2009,Super Rhino
-734,2014–,Supercar Superbuild
+734,2014,Supercar Superbuild
 735,1940,Swiss Family Robinson
 736,1960,Swiss Family Robinson
-737,1990–1991,TaleSpin
+737,1990,TaleSpin
 738,1995,Tall Tale
 739,2010,Tangled
 740,2017,Tangled: Before Ever After
-741,2017–2020,Tangled: The Series
+741,2017,Tangled: The Series
 742,2002,Tarzan & Jane
 743,2004,Teacher's Pet
-744,2000–2005,Teacher's Pet
+744,2000,Teacher's Pet
 745,2015,Teen Beach 2
 746,2013,Teen Beach Movie
 747,2011,Teen Spirit
 748,1997,That Darn Cat
 749,1965,That Darn Cat!
-750,2003–2007,That's So Raven
+750,2003,That's So Raven
 751,1961,The Absent Minded Professor
 753,1967,The Adventures of Bullwhip Griffin
 754,1993,The Adventures of Huck Finn
 755,1949,The Adventures of Ichabod and Mr. Toad
-756,1955–,The Adventures of Spin and Marty
+756,1955,The Adventures of Spin and Marty
 757,1955,The African Lion
 758,1975,The Apple Dumpling Gang
 759,1979,The Apple Dumpling Gang Rides Again
 760,1970,The Aristocats
 761,1941,The Art of Skiing
-762,2010–2012,The Avengers: Earth's Mightiest Heroes
-763,1999–2000,Avengers: United They Stand
+762,2010,The Avengers: Earth's Mightiest Heroes
+763,1999,Avengers: United They Stand
 764,1935,The Band Concert
 765,1974,The Bears and I
 766,2016,The BFG
@@ -690,7 +690,7 @@
 769,1985,The Black Cauldron
 770,1979,The Black Hole
 771,2013,The Blue Umbrella
-773,2001–2004,The Book of Pooh
+773,2001,The Book of Pooh
 774,1975,The Boy Who Talked to Badgers
 775,1998,The Brave Little Toaster Goes to Mars
 776,1974,The Castaway Cowboy
@@ -722,8 +722,8 @@
 804,1939,The Hockey Champ
 805,1996,The Hunchback of Notre Dame
 806,2002,The Hunchback of Notre Dame 2: The Secret of the Bell
-807,2019–,The Imagineering Story
-808,2011–,The Incredible Dr. Pol
+807,2019,The Imagineering Story
+808,2011,The Incredible Dr. Pol
 809,2016,Blue Ribbon Kids
 810,1963,The Incredible Journey
 811,2004,The Incredibles
@@ -742,18 +742,18 @@
 824,2008,The Little Mermaid: Ariel's Beginning
 826,1953,The Living Desert
 827,2003,Lizzie McGuire
-828,2016–,The Lodge
+828,2016,The Lodge
 829,2019,The Lost Tomb of Alexander the Great
 830,1968,The Love Bug
-831,2019–,The Mandalorian
+831,2019,The Mandalorian
 832,1977,The Many Adventures of Winnie the Pooh
 833,1971,The Million Dollar Duck
 834,2012,The Mistle-Tones
 835,1992,The Muppet Christmas Carol
 836,1979,The Muppet Movie
 837,2011,The Muppets
-838,2015–2016,The Muppets.
-839,1988–1991,The New Adventures of Winnie the Pooh
+838,2015,The Muppets.
+839,1988,The New Adventures of Winnie the Pooh
 840,1953,The New Neighbor
 841,2012,The Odd Life of Timothy Green
 842,1937,The Old Mill
@@ -771,10 +771,10 @@
 854,1987,The Princess Bride
 855,2001,The Princess Diaries
 856,2004,The Princess Diaries 2: Royal Engagement
-857,2001–2005,The Proud Family
+857,2001,The Proud Family
 858,2005,The Proud Family Movie
 859,1941,The Reluctant Dragon
-860,2006–2009,The Replacements
+860,2006,The Replacements
 861,1977,The Rescuers
 862,1990,The Rescuers Down Under
 863,1991,The Rocketeer
@@ -788,16 +788,16 @@
 871,1976,The Shaggy D.A.
 872,1959,The Shaggy Dog
 873,1958,The Sign of Zorro
-875,1989–,The Simpsons
+875,1989,The Simpsons
 876,1978,The Small One
 877,1965,The Sound of Music
 878,1952,The Story of Robin Hood and His Merrie Men
 879,1999,The Straight Story
 880,1975,The Strongest Man in the World
 881,2011,The Suite Life Movie
-882,2005–2008,The Suite Life of Zack & Cody
-883,2008–2011,The Suite Life on Deck
-884,2009–2011,The Super Hero Squad Show
+882,2005,The Suite Life of Zack & Cody
+883,2008,The Suite Life on Deck
+884,2009,The Super Hero Squad Show
 885,2016,The Swap
 886,1963,The Sword in the Stone
 887,1999,The Thirteenth Year
@@ -813,7 +813,7 @@
 897,1934,The Wise Little Hen
 898,2013,The Wizards Return: Alex vs. Alex
 899,2019,The Little Mermaid Live!
-900,2019–,The World According to Jeff Goldblum
+900,2019,The World According to Jeff Goldblum
 901,2003,The Young Black Stallion
 902,1965,Those Calloways
 904,2001,Three Days
@@ -824,7 +824,7 @@
 911,2004,Tiger Cruise
 912,1993,The Nightmare Before Christmas
 913,2020,Timmy Failure: Mistakes Were Made
-914,1995–1999,Timon & Pumbaa
+914,1995,Timon & Pumbaa
 915,1988,Tin Toy
 916,2008,Tinker Bell
 917,2010,Tinker Bell and the Great Fairy Rescue
@@ -845,7 +845,7 @@
 933,1976,Treasure of Matecumbe
 934,2002,Treasure Planet
 936,1982,TRON
-937,2012–2013,TRON: Uprising
+937,2012,TRON: Uprising
 938,2010,TRON: Legacy
 939,2002,Tru Confessions
 940,2002,Tuck Everlasting
@@ -856,12 +856,12 @@
 945,2005,Twitches
 946,2007,Twitches Too
 947,1979,Unidentified Flying Oddball
-949,2012–,Unlikely Animal Friends
+949,2012,Unlikely Animal Friends
 950,2009,Up
 951,2000,"Up, Up, and Away!"
 952,2005,Valiant
 953,2019,Viking Warrior Women
-954,2012–,Violetta
+954,2012,Violetta
 955,2009,Waking Sleeping Beauty
 956,2008,WALL·E
 958,1952,Water Birds
@@ -869,7 +869,7 @@
 960,2000,Whispers: An Elephant's Tale
 961,1991,White Fang
 962,1988,Who Framed Roger Rabbit
-963,2012–,Wicked Tuna
+963,2012,Wicked Tuna
 967,1988,Willow
 968,2019,Wind
 969,2012,Winged Seduction: Birds of Paradise
@@ -877,12 +877,12 @@
 971,2002,Winnie the Pooh: A Very Merry Pooh Year
 972,2003,Winnie the Pooh: Springtime with Roo
 973,1949,Winter Storage
-974,2007–2012,Wizards of Waverly Place
+974,2007,Wizards of Waverly Place
 975,2009,Wizards of Waverly Place: The Movie
-976,2008–2009,Wolverine and the X-Men
-977,2017–,BarkFest
+976,2008,Wolverine and the X-Men
+977,2017,BarkFest
 978,2012,Wreck-It Ralph
-979,2000–2003,X-Men: Evolution
+979,2000,X-Men: Evolution
 981,2017,Year Million
 982,1963,Yellowstone Cubs
 983,1998,You Lucky Dog
@@ -87382,7 +87382,6 @@
 638,2011,The Green Hornet
 639,2010,Dear John
 640,2017,Heroin(e)
-641,2010,Guzaarish
 642,2014,Imperial Dreams
 643,2019,Between Two Ferns: The Movie
 644,2014,13 Sins
@@ -87501,7 +87500,6 @@
 757,2000,Romeo Must Die
 758,2017,Love Off the Cuff
 759,2017,47 Meters Down
-760,2010,Udaan
 761,2016,Barakah Meets Barakah
 762,2007,Ghost Rider
 763,2019,FYRE: The Greatest Party That Never Happened
@@ -87809,7 +87807,6 @@
 1065,2016,Dean
 1066,2019,Ek Ladki Ko Dekha Toh Aisa Laga
 1067,2018,In Darkness
-1068,2012,Rowdy Rathore
 1069,2007,Secret
 1070,2019,Girl on the Third Floor
 1071,2016,Mindhorn
@@ -88032,9 +88029,7 @@
 1288,2008,Oye Lucky! Lucky Oye!
 1289,2017,Long Shot
 1290,2020,Coffee & Kareem
-1291,2011,Aarakshan
 1292,2019,My Next Guest with David Letterman and Shah Rukh Khan
-1293,2010,Eyyvah Eyvah
 1294,2015,Minimalism: A Documentary About the Important Things
 1295,2017,The Outcasts
 1296,2003,Inuyasha the Movie 3: Swords of an Honorable Ruler
@@ -88112,7 +88107,6 @@
 1368,2016,Hard Tide
 1369,2015,Dream/Killer
 1370,2014,She's Dating the Gangster
-1371,2008,Fashion
 1372,2018,Ibiza
 1373,2017,Jailbreak
 1374,2018,"Game Over, Man!"
@@ -88169,7 +88163,6 @@
 1425,2009,Kevin Hart: I'm a Grown Little Man
 1426,2016,Ordinary World
 1427,2019,Polar
-1428,2008,Mumbai Meri Jaan
 1429,2012,Ek Main Aur Ekk Tu
 1430,2018,The Warning
 1431,2019,Iron Sky The Coming Race
@@ -88442,7 +88435,6 @@
 1698,2017,#realityhigh
 1699,2014,Bride for Rent
 1700,2019,Polaroid
-1701,2020,Yeh Ballet
 1702,2000,The Watcher
 1703,2013,Fukrey
 1704,2015,Some Kind of Beautiful
@@ -88743,7 +88735,6 @@
 1999,2019,The Hard Way
 2000,2017,Jim Norton: Mouthful of Shame
 2001,2013,Barbie & Her Sisters in A Pony Tale
-2002,2012,Luv Shuv Tey Chicken Khurana
 2003,2018,My Little Pony: Best Gift Ever
 2004,2018,Tig Notaro: Happy To Be Here
 2005,2017,Surga Yang Tak Dirindukan 2
@@ -88960,7 +88951,6 @@
 2216,1993,The Mad Monk
 2217,2016,We Are Family
 2218,1981,Kaalia
-2219,2012,Kath & Kimderella
 2220,2020,Dragons: Rescue Riders: Hunt for the Golden Dragon
 2221,2019,Tootsies & The Fake
 2222,2018,14 Cameras
@@ -89107,7 +89097,6 @@
 2363,2017,Christina P: Mother Inferior
 2364,2017,Def Comedy Jam 25
 2365,2018,Crossroads: One Two Jaga
-2366,2003,Chameli
 2367,2016,Night Fare
 2368,2018,When Angels Sleep
 2369,2020,The Last Thing He Wanted
@@ -89153,7 +89142,6 @@
 2409,2014,Silent
 2410,2016,The Boss's Daughter
 2411,2009,Road Trip: Beer Pong
-2412,2019,Upstarts
 2413,2018,ReMastered: Who Shot the Sheriff
 2414,2018,"2,215"
 2415,2014,Iron Man & Captain America: Heroes United
@@ -89166,7 +89154,6 @@
 2422,2001,One 2 Ka 4
 2423,2008,Tahaan
 2424,2016,The Darkest Dawn
-2425,2009,Jail
 2426,2003,The Only Mother
 2427,2018,Tottaa Pataaka Item Maal
 2428,1962,Professor
@@ -89202,7 +89189,6 @@
 2458,2016,Offline: Are You Ready for the Next Level?
 2459,2015,Abzurdah
 2460,2007,Honeymoon Travels Pvt. Ltd.
-2461,2019,Evvarikee Cheppoddu
 2462,2019,Awake
 2463,2017,Apache Warrior
 2464,2017,LEGO Ninjago: Day of the Departed
@@ -89273,10 +89259,8 @@
 2529,2016,Letters from Prague
 2530,2016,Rebirth
 2531,2013,Soekarno
-2532,2012,Vettai
 2533,2010,Virsa
 2534,2011,Muran
-2535,2003,Darna Mana Hai
 2536,2015,The Gospel of Luke
 2537,2020,Go! Go! Cory Carson: The Chrissy
 2538,2012,Maria Bamford: The Special Special Special!
@@ -89354,7 +89338,6 @@
 2610,2013,Theeya Velai Seiyyanum Kumaru
 2611,2019,The App
 2612,2017,The Last Hour
-2613,2010,Aashayein
 2614,2019,Brother
 2615,2015,Marvel Super Heroes Adventures: Frost Fight
 2616,2014,Convict
@@ -89440,7 +89423,6 @@
 2696,2013,Mahabharat
 2697,2017,Blessed Benefit
 2698,2017,Maddman: The Steve Madden Story
-2699,2011,Thank You
 2700,1980,Two Champions of Shaolin
 2701,2017,Joe Mande's Award-Winning Comedy Special
 2702,2015,¡Asu Mare! 2
@@ -89794,7 +89776,6 @@
 3050,2014,Swearnet Live
 3051,2016,Macho
 3052,1991,Tim Allen: Rewires America
-3053,2005,Shabd
 3054,2015,Aisa Yeh Jahaan
 3055,2017,DreamWorks Home: For the Holidays
 3056,2018,W/O Ram
@@ -89989,7 +89970,6 @@
 3245,2012,Mugamoodi
 3246,2018,Pup Star: World Tour
 3247,2019,Hot Gimmick: Girl Meets Boy
-3248,2019,We Are Legends
 3249,2015,A Sort of Homecoming
 3250,2018,Adhugo
 3251,2009,Bitter / Sweet
@@ -91720,7 +91700,6 @@
 4976,2011,Give Up Tomorrow
 4977,1986,The Big Easy
 4978,2004,Double Dare
-4979,2007,Amal
 4980,2015,Finders Keepers
 4981,2017,M.F.A.
 4982,2013,After Tiller
@@ -92306,7 +92285,6 @@
 5562,2015,Doomed! The Untold Story of Roger Corman's The Fantastic Four
 5563,2016,Diverge
 5564,2009,Baarìa
-5565,2007,Poor Boy's Game
 5566,2014,That Guy Dick Miller
 5567,1946,Till the Clouds Roll By
 5568,2015,Hyena Road
@@ -92487,7 +92465,6 @@
 5743,1980,Sun Ra: A Joyful Noise
 5744,2014,Point and Shoot
 5745,2016,Sold
-5746,2003,The Rage in Placid Lake
 5747,2017,Imitation Girl
 5748,2015,Battle for Sevastopol
 5749,2007,Interview
@@ -92513,7 +92490,6 @@
 5769,1992,1492: Conquest of Paradise
 5770,2001,The 51st State
 5771,2000,Urbania
-5772,2020,Sufna
 5773,2016,I Am Belfast
 5774,2017,Love & Saucers
 5775,1994,Sirens
@@ -93531,7 +93507,6 @@
 6787,1996,Entertaining Angels - The Dorothy Day Story
 6788,2002,Out of the Blue
 6789,2015,Hostile Border
-6790,2009,Sweet Rush
 6791,1989,Maine Pyar Kiya
 6792,2006,The Curiosity of Chance
 6793,2014,Hank and Asha
@@ -93739,7 +93714,6 @@
 6995,1992,Khiladi
 6996,2015,Ovum
 6997,2014,Bey Yaar
-6998,2001,Morlang
 6999,2015,Mourning Son
 7000,2013,If I Were You
 7001,2009,The 25th Anniversary Rock and Roll Hall of Fame Concerts
@@ -93776,7 +93750,6 @@
 7032,1953,The Lady Without Camelias
 7033,2008,Affinity
 7034,2016,Shortwave
-7035,1984,Saaransh
 7036,1942,Sherlock Holmes and the Secret Weapon
 7037,2008,Four Seasons Lodge
 7038,2014,Vessel
@@ -93957,7 +93930,6 @@
 7213,2015,Ktown Cowboys
 7214,2001,Harvard Man
 7215,2017,Do You Take This Man
-7216,1978,Mullum Malarum
 7217,2018,Psychonautics: A Comic's Exploration of Psychedelics
 7218,1999,Terror Firmer
 7219,1989,The Return of Swamp Thing
@@ -94030,7 +94002,6 @@
 7286,2016,The Falls: Covenant of Grace
 7287,2001,Women Talking Dirty
 7288,2014,Child of God
-7289,1983,"Careful, He Might Hear You"
 7290,2014,RWBY: Volume 2
 7291,2016,Unseen
 7292,2008,Disfigured
@@ -94053,7 +94024,6 @@
 7309,1967,"Django Kill... If You Live, Shoot!"
 7310,2017,Maya Dardel
 7311,1994,Black Beauty
-7312,2004,One Perfect Day
 7313,1993,Gentleman
 7314,1973,Messiah of Evil
 7315,2003,Pauly Shore Is Dead
@@ -94073,7 +94043,6 @@
 7329,2007,Chapter 27
 7330,1936,Tell Your Children
 7331,1981,Ek Duuje Ke Liye
-7332,2005,Page 3
 7333,2002,Left Behind II: Tribulation Force
 7334,2015,Harbinger Down
 7335,2013,An Apology to Elephants
@@ -94288,7 +94257,6 @@
 7544,1952,Against All Flags
 7545,1974,Frightmare
 7546,2015,Zombie Ninjas vs Black Ops
-7547,1973,Namak Haraam
 7548,2013,Treading Water
 7549,1953,Glen or Glenda
 7550,2001,Othello
@@ -94320,7 +94288,6 @@
 7576,2011,Something Ventured
 7577,2009,An American Girl: Chrissa Stands Strong
 7578,2017,The Soul of Success: The Jack Canfield Story
-7579,1995,Akele Hum Akele Tum
 7580,2020,Jimmy O. Yang: Good Deal
 7581,2016,No Letting Go
 7582,1982,Turkey Shoot
@@ -94363,7 +94330,6 @@
 7619,2012,The New Public
 7620,2016,Golden Years
 7621,2006,Man About Town
-7622,2000,Astitva
 7623,2015,Kingdom of Shadows
 7624,2011,Faces in the Crowd
 7625,2013,HENRi
@@ -94432,7 +94398,6 @@
 7688,1975,Late Night Trains
 7689,2006,The Celestine Prophecy
 7690,1977,The Invincible Armour
-7691,2006,Malamaal Weekly
 7692,2010,Iris: The Movie
 7693,2019,Rise of the Superheroes
 7694,2005,Meatball Machine
@@ -94448,7 +94413,6 @@
 7704,2012,The Real Inglorious Bastards
 7705,2003,"Jasper, Texas"
 7706,2018,The Last Man
-7707,2009,Headhunter
 7708,2008,Daytime Drinking
 7709,2013,Doug Stanhope: Beer Hall Putsch
 7710,1977,Shaolin Kung-Fu Mystagogue
@@ -94476,7 +94440,6 @@
 7732,1967,Fitzwilly
 7733,2013,Extraordinary: The Stan Romanek Story
 7734,2013,"Gahan Wilson: Born Dead, Still Weird"
-7735,1970,Adelheid
 7736,2017,A Horrible Woman
 7737,2019,RWBY: Volume 4
 7738,1948,Rudolph the Red-Nosed Reindeer
@@ -94606,7 +94569,6 @@
 7862,2008,Shiver
 7863,2004,Deewaar: Let's Bring Our Heroes Home
 7864,2018,Antariksham 9000 KMPH
-7865,1991,Yumeji
 7866,1990,The Old Man and the Sea
 7867,1981,Malevil
 7868,2008,Poppy Shakespeare
@@ -94741,7 +94703,6 @@
 7997,1985,We Are the World: The Story Behind the Song
 7998,1972,Hapkido
 7999,1953,Malta Story
-8000,1986,The Seventh Curse
 8001,2013,App
 8002,2014,The Quitter
 8003,2016,Summer of 8
@@ -94807,7 +94768,6 @@
 8063,1968,Thunderbird 6
 8064,2002,Ignition
 8065,1922,The Blacksmith
-8066,2010,I Love You Too
 8067,2016,Madtown
 8068,1975,Mili
 8069,2017,Peace Breaker
@@ -94829,7 +94789,6 @@
 8085,2013,First Period
 8086,2016,Red Christmas
 8087,2011,Pink Floyd: Behind the Wall
-8088,2009,Sagwan
 8089,2008,The Sensei
 8090,2004,Trois 3: The Escort
 8091,2014,The 50 Best Horror Movies You've Never Seen
@@ -94947,7 +94906,6 @@
 8203,2019,Enai Noki Paayum Thota
 8204,2007,Sparkle
 8205,2014,The Perfect Husband
-8206,2010,Burning Daylight
 8207,1940,Beyond Tomorrow
 8208,2008,ThanksKilling
 8209,2012,Roadmap to Apartheid
@@ -95279,7 +95237,6 @@
 8535,2010,What Would Jesus Do?
 8536,2006,The Kovak Box
 8537,2005,A Shot in the Dark
-8538,1999,Erskineville Kings
 8539,2020,The White Massai Warrior
 8540,1953,Martin Luther
 8541,2007,Motives 2
@@ -95432,7 +95389,6 @@
 8688,2010,Leslie Jordan: My Trip Down the Pink Carpet
 8689,2012,Walking the Halls
 8690,2015,The Last Rescue
-8691,2010,Tirza
 8692,2005,New York Dolls: All Dolled Up
 8693,2013,Knuckle Jack
 8694,2013,Hansel & Gretel
@@ -95783,7 +95739,6 @@
 9039,2004,Just to Get a Rep
 9040,2014,Tempting Fate
 9041,1984,Old Enough
-9042,2006,Citizen Duane
 9043,2016,Stressed to Kill
 9044,2010,Vine of the Soul: Encounters with Ayahuasca
 9045,2012,Imaginary Friend
@@ -95802,7 +95757,6 @@
 9058,2013,Monsters Wanted
 9059,2007,Caffeine
 9060,1977,The Sand Castle
-9061,1972,Wedding in White
 9062,1939,Bulldog Drummond's Secret Police
 9063,2013,Crawlspace
 9064,2012,Devoured
@@ -96431,7 +96385,6 @@
 9687,1999,My Last Love
 9688,2016,Rising Tides
 9689,2013,The O'Briens
-9690,2009,Ek Niranjan
 9691,2011,Dirty Movie
 9692,1944,Casanova Brown
 9693,2017,The Age of Blood
@@ -96683,7 +96636,6 @@
 9939,1958,The Cry Baby Killer
 9940,2010,Fireman Sam: The Great Fire of Pontypandy
 9941,2015,The Strongest Man
-9942,1984,Vigil
 9943,2002,Mango Souffle
 9944,1989,The Lady and the Highwayman
 9945,2012,The Tents
@@ -96763,7 +96715,6 @@
 10019,1984,The Hills Have Eyes Part 2
 10020,1943,Hi Diddle Diddle
 10021,2013,Friended to Death
-10022,1990,Swarg
 10023,1956,Slightly Scarlet
 10024,2009,Be Mine
 10025,2009,Caught in the Game
@@ -97154,7 +97105,6 @@
 10410,2011,The Finger
 10411,1965,Black Spurs
 10412,1988,Killing American Style
-10413,1972,The Adventures of Barry McKenzie
 10414,2016,Recovery
 10415,2015,Gallows Road
 10416,1991,Blood and Concrete
@@ -97340,7 +97290,6 @@
 10596,2010,Steve Byrne: The Byrne Identity
 10597,2014,Berlin Troika
 10598,2006,New Orleans: Music in Exile
-10599,2008,Kotha Bangaru Lokam
 10600,2001,Snakeskin
 10601,2013,Head Cases: Serial Killers in the Delaware Valley
 10602,2015,Stock Option
@@ -97721,7 +97670,6 @@
 10977,1962,Aarti
 10978,2005,Descent
 10979,2018,CALL TV
-10980,2000,Love Come Down
 10981,2012,Legend of a Warrior
 10982,2006,Warren Miller's Off the Grid
 10983,1940,The Ape
@@ -98193,7 +98141,6 @@
 11449,1954,The Back of Beyond
 11450,2012,Brothers on the Line
 11451,2011,Fable of the Fish
-11452,1987,Ninja Death
 11453,2017,"An American Girl Story: Summer Camp, Friends For Life"
 11454,2003,The Magical Life of Long Tack Sam
 11455,2006,Combat
@@ -98386,7 +98333,6 @@
 11642,2013,Lost for Words
 11643,2013,Roland Klick: The Heart Is a Hungry Hunter
 11644,1933,The World Gone Mad
-11645,2007,Vasermil
 11646,1943,Campus Rhythm
 11647,2015,Running Forever
 11648,1960,David and Goliath
@@ -99258,7 +99204,6 @@
 12514,1935,When a Man's a Man
 12515,2012,The Last White Knight
 12516,2016,Abbey Grace
-12517,1976,Do Anjaane
 12518,2010,The Awkward Comedy Show
 12519,1971,Maybe I'll Come Home in the Spring
 12520,2011,Shotgun Love
@@ -99824,7 +99769,6 @@
 13080,2015,Vellaiya Irukiravan Poi Solla Maatan
 13081,2018,Idle Thoughts
 13082,1982,The Emperor of Peru
-13083,2012,Arena of the Street Fighter
 13084,2012,From This Day Forward
 13085,1972,Grave of the Vampire
 13086,2002,Redemption
@@ -100343,7 +100287,6 @@
 13599,1944,Oath of Vengeance
 13600,2014,Sex Ain't Love
 13601,2010,The Corrupted
-13602,2008,Colour from the Dark
 13603,2012,Roadside Massacre
 13604,2015,Sorrow
 13605,2015,California High
@@ -101161,7 +101104,6 @@
 14417,1936,Prison Shadows
 14418,2014,Mount Joy
 14419,1937,Brothers of the West
-14420,2007,Death Knows Your Name
 14421,2010,Hatalyan (The Hangman)
 14422,2009,Community College
 14423,2013,ICE Agent
@@ -101521,7 +101463,6 @@
 14777,2017,Project: Galaxy
 14778,1994,Replikator
 14779,2011,Exhumed
-14780,1997,Heaven Before I Die
 14781,2017,Tsunambee
 14782,2008,Six Reasons Why
 14783,1933,The Eleventh Commandment
@@ -101938,7 +101879,6 @@
 15194,1942,Lure of the Islands
 15195,2006,The System Within
 15196,2013,Paranormal Ghost Hauntings at the Turn of the Century
-15197,2013,Ferocious
 15198,1976,The Milpitas Monster
 15199,2010,Shackled
 15200,2004,Retrograde
@@ -102259,7 +102199,6 @@
 15515,2007,Ghost Image
 15516,2013,Ridge War Z
 15517,2017,Rising Fear
-15518,2007,Prey for the Beast
 15519,2007,Mission Accomplished: Langan in Iraq
 15520,2013,The Zombie King
 15521,2010,The 7 Adventures of Sinbad
@@ -102395,7 +102334,6 @@
 15651,2005,Kong: King of Atlantis
 15652,1992,Black Ice
 15653,2014,Dead Girls
-15654,2012,Becoming Redwood
 15655,2012,Cell Count
 15656,1942,The Mad Monster
 15657,1938,International Crime
@@ -102450,9 +102388,7 @@
 15706,2010,Dark Island
 15707,2012,Back from Hell
 15708,2015,All Saints Eve
-15709,2008,Sharp as Marbles
 15710,2005,Bound by Lies
-15711,1974,Alien Thunder
 15712,1956,The Violent Years
 15713,1999,The Auteur Theory
 15714,2014,Best Day Ever
@@ -102499,7 +102435,6 @@
 15755,2009,Bad Cop
 15756,2007,The Empty Acre
 15757,2020,AI: Artificial or ADVANCED Intelligence
-15758,1988,Day of the Panther
 15759,2010,The Dead Undead
 15760,1964,Hercules and the Tyrants of Babylon
 15761,2014,The Smoke
@@ -102530,10 +102465,8 @@
 15786,2007,Bone Eater
 15787,2007,Stagknight
 15788,2014,Starship Rising
-15789,2005,The Vampire Conspiracy
 15790,2012,Dance Fu
 15791,2013,It's a Lot
-15792,2007,Recon 2022: The Mezzo Incident
 15793,2006,Pirates of Treasure Island
 15794,2014,Contract Killers
 15795,2008,Maan Gaye Mughal-e-Azam

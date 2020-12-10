@@ -1,0 +1,28 @@
+movies_db
+-
+title VARCHAR 
+director VARCHAR
+country VARCHAR
+year DATE
+genre VARCHAR
+rating VARCHAR
+
+director_summary
+-
+director VARCHAR FK >- movies_db.director
+title VARCHAR FK >- movies_db.title
+
+country_summary
+-
+country VARCHAR FK >- movies_db.country
+title VARCHAR FK >- movies_db.title
+
+release_summary
+-
+year DATE FK >- movies_db.year
+title VARCHAR FK >- movies_db.title
+
+imdb_summary
+-
+rating VARCHAR FK >- movies_db.rating
+title VARCHAR FK >- movies_db.title
