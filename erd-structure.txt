@@ -5,7 +5,7 @@ director VARCHAR
 country VARCHAR
 year DATE
 genre VARCHAR
-rating VARCHAR
+rating FLOAT
 
 director_summary
 -
@@ -24,5 +24,5 @@ title VARCHAR FK >- movies_db.title
 
 imdb_summary
 -
-rating VARCHAR FK >- movies_db.rating
+rating FLOAT FK >- movies_db.rating
 title VARCHAR FK >- movies_db.title
